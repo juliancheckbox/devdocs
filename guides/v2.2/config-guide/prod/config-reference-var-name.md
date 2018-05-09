@@ -135,7 +135,7 @@ To get these values from the database:
 		use <magento database name>;
 4.	Use the following SQL queries to find the relevant values:
 
-		SELECT * FROM STORES;
+		SELECT * FROM STORE;
 		SELECT * FROM STORE_WEBSITE;
 
 	A sample follows:
